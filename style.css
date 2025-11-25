@@ -26,13 +26,6 @@
     width: 130px;
 }
 
-.logo{
-    height: 50px;
-    width: 100%;
-    background-image: url(Amazon-Logo-White-PNG.png);
-    background-size: cover;
-}
-
 /** box 2**/
 
 .add-first{
@@ -167,7 +160,7 @@ span{
 
 .hero-section{
     height: 300px;
-    background-image: url(hero_img.jpg);
+    background-image: url(Images/hero_img.jpg);
     background-size: cover;
     display: flex;
     align-items: flex-end;
@@ -269,7 +262,7 @@ span{
 .logo{
     height: 45px;
     width: 130px;
-    background-image: url(Amazon-Logo-White-PNG.png);
+    background-image: url(Images/Amazon-Logo.png);
     background-size: cover;
 }
 
