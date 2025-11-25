@@ -66,7 +66,6 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 
 ```
 ![Header & Hero Section](https://github.com/user-attachments/assets/65a93fc2-92b3-406b-b5a5-e398ff9d3ea7.png)
-<img width="1343" height="683" alt="Header   Hero Section" src="https://github.com/user-attachments/assets/65a93fc2-92b3-406b-b5a5-e398ff9d3ea7" />
 
 ```
 
