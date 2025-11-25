@@ -65,8 +65,9 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 ## 📸 Screenshots
 
 ```
-![Homepage Screenshot](<img width="1343" height="683" alt="Screenshot 2025-11-25 111146" src="https://github.com/user-attachments/assets/9b74fed6-6bed-44b0-9bba-a4c635212f2f" />
-)
+![Header & Hero Section](https://github.com/user-attachments/assets/65a93fc2-92b3-406b-b5a5-e398ff9d3ea7)
+<img width="1343" height="683" alt="Header   Hero Section" src="https://github.com/user-attachments/assets/65a93fc2-92b3-406b-b5a5-e398ff9d3ea7" />
+
 ```
 
 ---
