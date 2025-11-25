@@ -62,20 +62,11 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 
 ---
 
-## 📸 Screenshots
-
-![Header](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/2da0c862c6f0b8d63f8ed12b99916792ed02bf06/Screenshots/Header%20%26%20Hero%20Section.png)
-
-![Main](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Products-Section.png)
-
-![Footer](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Footer.png)
----
-
 ## 🔧 How to Run Locally
 
 1. Clone or download this repository:
 
-git https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone
+https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone
 
 2. Open the folder.
 3. Double-click **index.html** to open in any browser.
@@ -91,6 +82,17 @@ No installation required.
 * Add carousel slider for hero section
 * Improve spacing for smaller screens
 
+## 📸 Screenshots
+
+---
+*Navigation Bar & Hero Section
+![Header](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/2da0c862c6f0b8d63f8ed12b99916792ed02bf06/Screenshots/Header%20%26%20Hero%20Section.png)
+
+*Product Categories Section
+![Main](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Products-Section.png)
+
+*Footer
+![Footer](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Footer.png)
 ---
 
 ## 👤 Author
