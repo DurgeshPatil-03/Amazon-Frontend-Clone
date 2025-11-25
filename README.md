@@ -65,7 +65,7 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 ## 📸 Screenshots
 
 ```
-![Header & Hero Section](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/main/Screenshots/Header%20%26%20Hero%20Section.png)
+![Header](Screenshots/Header & Hero Section.png)
 
 ```
 
