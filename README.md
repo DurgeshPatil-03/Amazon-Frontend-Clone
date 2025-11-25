@@ -66,6 +66,9 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 
 ![Header](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/2da0c862c6f0b8d63f8ed12b99916792ed02bf06/Screenshots/Header%20%26%20Hero%20Section.png)
 
+![Main](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Products-Section.png)
+
+![Footer](https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone/blob/95024fad46620699f4ca442ebf0c83ca9382d574/Screenshots/Footer.png)
 ---
 
 ## 🔧 How to Run Locally
