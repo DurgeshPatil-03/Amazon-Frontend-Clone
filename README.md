@@ -64,7 +64,7 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 
 ## 📸 Screenshots
 
-![Header]([Screenshots/Header & Hero Section.png](Screenshots/Header & Hero Section.png))
+![Header](Screenshots/Header & Hero Section.png)
 
 ---
 
