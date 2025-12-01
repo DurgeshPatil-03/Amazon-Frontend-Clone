@@ -66,7 +66,7 @@ A simple and clean **Amazon homepage clone** built using **HTML5** and **CSS3**.
 
 1. Clone or download this repository:
 
-https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone
+git clone https://github.com/DurgeshPatil-03/Amazon-Frontend-Clone
 
 2. Open the folder.
 3. Double-click **index.html** to open in any browser.
